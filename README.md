@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🎓 I’m currently working on my PhD thesis about the conversion of conventional to spiking neural networks at TUM.
+
 <!--
 **EtienneMueller/EtienneMueller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
