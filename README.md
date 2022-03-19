@@ -4,7 +4,7 @@ I’m Etienne, a PhD student from the Technical University in Munich, Germany.
 
 Currently I am working on my dissertation about the conversion of continuous-valued to spiking neural networks.
 
-You might want to check out my [LinkedIn Profile](https://de.linkedin.com/in/etienne-m%C3%BCller-aa885869) or my [Google Scholar Profile](https://scholar.google.de/citations?user=xVfcQwsAAAAJ&hl=de&authuser=1)
+You might want to check out my [LinkedIn Profile](https://de.linkedin.com/in/etienne-m%C3%BCller-aa885869) or my [Google Scholar Profile](https://scholar.google.de/citations?user=xVfcQwsAAAAJ&hl=de&authuser=1).
 
 
 <!--
