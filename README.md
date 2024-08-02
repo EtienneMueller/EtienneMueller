@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I’m Etienne, a PhD student from the Technical University in Munich, Germany.
+I’m Etienne, a researcher in artificial intelligence/computational neuroscience at the University of Melbourne, Australia.
 
-Currently I am working on my dissertation about the conversion of continuous-valued to spiking neural networks.
+Currently, I am working on creating a spiking neural network model of cellular-resolution calcium imaging data optained from live, alert zebrafish larvae.
 
 Please feel free to check out my [LinkedIn](https://de.linkedin.com/in/etienne-m%C3%BCller-aa885869) or my [Google Scholar](https://scholar.google.de/citations?user=xVfcQwsAAAAJ&hl=de&authuser=1) profile.
 
