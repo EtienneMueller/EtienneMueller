@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
-I’m Etienne, a researcher in artificial intelligence/computational neuroscience at the University of Melbourne, Australia.
+I’m Etienne, an Assistant Professor for AI & Data Science at Carnegie Mellon | KMITL (CMKL) in Bangkok, Thailand.
 
-Currently, I am working on creating a spiking neural network model of cellular-resolution calcium imaging data optained from live, alert zebrafish larvae.
+I bridge computational neuroscience and artificial intelligence, with a focus on biologically-inspired neural networks. My research explores how brain-like architectures can advance both our understanding of neural systems and the development of next-generation AI.
 
-Please feel free to check out my [LinkedIn](https://de.linkedin.com/in/etienne-m%C3%BCller-aa885869) or my [Google Scholar](https://scholar.google.de/citations?user=xVfcQwsAAAAJ&hl=de&authuser=1) profile.
+Research Interests: 
+- Spiking Neural Networks
+- Neuromorphic Computing
+- Computational Neuroscience
+
+📬 Find me on: [LinkedIn](https://www.linkedin.com/in/etiennemueller/) or [Google Scholar](https://scholar.google.de/citations?user=06qwunQAAAAJ)
 
 
 <!--
