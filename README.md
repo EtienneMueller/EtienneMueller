@@ -1,10 +1,10 @@
-### Hello there 👋
+## Hello there 👋
 
 I’m Etienne, an Assistant Professor for AI & Data Science at Carnegie Mellon | KMITL (CMKL) in Bangkok, Thailand.
 
 I bridge computational neuroscience and artificial intelligence, with a focus on biologically-inspired neural networks. My research explores how brain-like architectures can advance both our understanding of neural systems and the development of next-generation AI.
 
-Research Interests: 
+🧠 Research Interests: 
 - Spiking Neural Networks
 - Neuromorphic Computing
 - Computational Neuroscience
